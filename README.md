@@ -1,5 +1,5 @@
 # gargargarbage
-# 下载我在用的代理工具：Clash Verge(网址：https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.0.3/Clash.Verge_2.0.3_x64-setup.exe）
+# 下载我在用的代理工具：Clash Verge(网址：https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.0.3/Clash.Verge_2.0.3_x64-setup.exe
 # 注册并登录机场 很便宜 0.6刀一个月100G https://mitce.com/ 点首页订阅套餐
 ![image](https://github.com/user-attachments/assets/d513d880-4382-4d9b-a58b-1363b0f45efa)
 # 交完钱之后 点客户中心 把通用订阅URL复制下来
